@@ -1,0 +1,5 @@
+--Q.)DIfference between count(*) and count(1)?
+
+--Q.)Difference between MySQL and Oracle diff?
+--Q.)Difference between varchar and varchar2?
+--
